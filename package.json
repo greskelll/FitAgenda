@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-calendar": "^4.1.0",
+    "sass": "^1.60.0"
+  }
+}
